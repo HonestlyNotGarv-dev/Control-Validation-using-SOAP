@@ -1,5 +1,5 @@
 
-## Control Validation Using SOAP
+## Kali Control Validation
 
 Tested with Kali 2022.1
 
