@@ -33,6 +33,12 @@ The main file is called _Control.py_ in which the _vulnerable_ip_ & _soap_servic
 
 The _vulnerable-flask-app.py_ and _vulnerable-soap-service_ are provided for testing along with the test database called _test.db_ made using sqlite3.
 
+_You would require the following tools :-_
+
+SOAPUI,
+SQLMap,
+Burpsuite,
+DirBuster
 
 ## Installation
 
@@ -40,7 +46,6 @@ git clone https://github.com/HonestlyNotGarv-dev/Control-Validation-using-SOAP.g
 
 cd Control-Validation-using-SOAP
 
-sudo pip3 install -r requirements.txt
 
 
 ## Usage
